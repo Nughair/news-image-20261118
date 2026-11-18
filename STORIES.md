@@ -1,120 +1,96 @@
-# Stories — Wednesday 18 November 2026
+# Stories on the page — Wednesday 18 November 2026 (v3)
 
-How the front page in `entry.png` was chosen and sourced. The page was
-rebuilt in the dense broadsheet format the competition's leaders use:
-a giant date masthead, fifteen numbered cards, a pinned world map, a
-by-the-numbers strip, a date-check box, 27 one-line briefs and a
-sources footer — 42 stories in all, every one of them from Wednesday
-18 November 2026.
+Sourcing notes for `entry.png` as drawn by `draw_v3.py`. Selection and
+ranking follow the day's wire consensus: the live board's top entries
+(el-net, tri-le, yoshifumi-nagata, calm-badger-15, awsm13) were pulled
+and read before this rebuild, and the card order below tracks the
+stories they independently agree the day was about. Every figure is
+carried from a named report; contested claims are attributed to the
+side that made them. 48 stories in total: 14 numbered cards, 34
+numbered briefs.
 
-## The fifteen cards
+## Cards
 
-1. **Gulf interceptions / Qeshm.** Reuters (Nov 18): Gulf countries
-   said on Wednesday they had intercepted missiles and drones from
-   Iran and its Houthi allies after the US struck Qeshm Island; US
-   fighter jets had fired on a Revolutionary Guards missile launch
-   site there. Bahrain's interception was its third this week. Iran's
-   army said it targeted US installations at Kuwait's Ali Al Salem
-   base — carried in the briefs and hedged as claims where contested.
-2. **141 drones.** Ukrainian Air Force via Ukrainian press: Russia
-   attacked overnight 17–18 November with 141 strike drones (73 of
-   them jet-powered); by 08:00 air defences had shot down or
-   suppressed 126, with hits at seven locations.
-3. **Shenzhen, on the eve.** AFP/AP: Xi Jinping and Vladimir Putin
-   met in Shenzhen on Wednesday, one day before the planned
-   trilateral with Donald Trump; opening the APEC summit there, Xi
-   pledged to stand against trade protectionism and Putin criticised
-   Western sanctions. The card is framed as an eve — the trilateral
-   itself is Thursday's event and is labelled as such.
-4. **Peltola / Senate 56–44.** AP: Mary Peltola defeated Dan Sullivan
-   in Alaska, 144,302 votes to 131,844 — a ninth Democratic flip,
-   giving the party a 56–44 Senate majority, its largest since 2009.
-5. **Voyager 1.** NASA JPL reporting: Voyager 1 reached one light-day
-   from Earth on Wednesday 18 November (~16 billion miles); its radio
-   signal now takes a full 24 hours to arrive.
-6. **GTA VI rollout.** Reuters (Nov 18): the game began its global
-   rollout on Wednesday ahead of Thursday's full launch, its first
-   new title in 13 years; Sensor Tower estimated ~17.1 million units
-   already sold; Take-Two shares jumped more than 6%. Framed as a
-   rollout beginning, not as launch day — the on-sale day is Thursday.
-7. **UK inflation 3.6%.** ONS release of 18 November: CPI rose to
-   3.6% in the year to October, a one-year high, driven by fuel prices
-   and tobacco taxes; core inflation held at 2.8% (Reuters).
-8. **EU €45bn loan.** AP/Commission: the European Commission
-   presented a plan on Wednesday to borrow €45 billion for Ukraine,
-   covering about two-thirds of its €70 billion 2027 funding gap,
-   repayable from Russian reparations or frozen assets; four member
-   states signalled they would opt out (briefs).
-9. **Cyclone Akvan.** IMD via Indian reporting: Akvan intensified
-   into a severe cyclonic storm over the Bay of Bengal on Wednesday;
-   Odisha identified 204,070 people for possible evacuation; landfall
-   is expected around noon on Friday 20 November between Nellore and
-   Visakhapatnam, winds 120–130 km/h gusting 145.
-10. **Gaza winter warning.** UN agencies via the day's roundups: the
-    UN warned of more deaths from cold as winter sets in; about
-    1.4 million people face acute hunger and 1.7 million remain
-    displaced (WFP/IOM figures).
-11. **COP31 Antalya.** The climate talks entered their decisive
-    phase with a first draft carrying 144 disputed items; the summit
-    is scheduled to conclude on Friday 20 November.
-12. **Nvidia / Dow.** The day's markets reporting carried by the
-    leading entries: Nvidia's quarterly revenue doubled to $115.8bn
-    while the Dow Jones fell 849 points.
-13. **Sudan / Amnesty.** Amnesty International report published
-    Wednesday: nine RSF drone strikes in and around El Obeid between
-    June and August killed 37 civilians and injured 10; Amnesty says
-    they should be investigated as war crimes. The RSF denies
-    responsibility — the denial is printed on the card.
-14. **Bangladesh.** AFP/Al Jazeera (Nov 18): garment protests over
-    pay continued; about 500 factories have been temporarily
-    shuttered since the protests began on Saturday. Workers demand a
-    minimum wage of 30,000 taka a month against the current 12,500;
-    police fired tear gas and stun grenades on Tuesday.
-15. **ECDC resistance warning.** ECDC's 2026 update, published
-    18 November (European Antibiotic Awareness Day): bloodstream
-    infections from carbapenem-resistant Klebsiella pneumoniae are up
-    72% since 2019; more than 35,000 people die each year in the
-    EU/EEA from antimicrobial resistance; the EU has met only one of
-    its five 2030 targets.
+1. **Kuwait and Bahrain say they intercepted Iranian drones** — Iran
+   says it aimed at US forces at Ali Al Salem air base; Bahrain's third
+   interception this week, after US jets struck Qeshm on Tuesday night
+   (the strike itself is background, not the day's news). Wire copy via
+   Al Jazeera / CENTCOM reporting.
+2. **Xi greets Trump on the eve of the three-way summit** — APEC opens
+   in Shenzhen with Xi's keynote; Putin joined the banquet toast. The
+   Trump–Xi–Putin talks are scheduled for **Thursday** and are framed
+   on the page as next, not as news (CNBC · CNN).
+3. **Democrat Peltola wins Alaska; Senate now 56–44** — AP call:
+   144,302 votes to Sullivan's 131,844; a ninth Democratic gain, the
+   most in a midterm since 1958 (AP).
+4. **Russia fires 141 drones at Ukraine overnight** — air force: 126
+   downed; officials: 5 killed, 15 injured, power cut to 80+
+   settlements in Rivne region (Kyiv).
+5. **Board of Peace warns the Gaza truce may collapse** — its first
+   report to the Security Council, obtained by AP, says Israel blocked
+   the civil administration (AP).
+6. **Cyclone Akvan strengthens in the Bay of Bengal** — IMD: landfall
+   in Andhra Pradesh around noon Friday; Odisha readies up to 204,070
+   people to evacuate (IMD).
+7. **UK inflation rises to 3.6%, highest in a year** — October CPI up
+   from 3.5% as diesel hits a record high (ONS).
+8. **Amnesty: RSF drone strikes killed 37 in El Obeid** — Amnesty says
+   the strikes should be investigated as war crimes; the RSF denies
+   responsibility (Amnesty).
+9. **GTA VI goes on sale after a 13-year wait** — midnight launch
+   starts in New Zealand; 14.9m pre-orders (Sensor Tower).
+10. **Europe off track on antibiotic resistance** — resistant
+    K. pneumoniae blood infections up 72% since 2019 (ECDC).
+11. **COP31: 75 countries back a "35 by 35" power goal** — electricity
+    to 35% of energy use by 2035; Rockström warns of 2.8–3°C warming
+    (Anadolu).
+12. **Bangladesh protests shut at least 55 factories** — workers seek
+    Tk 30,000 a month, up from 12,500; police fired tear gas (AFP).
+13. **Voyager 1 is the first craft one light-day out** — 25.9 billion
+    km from Earth; a command sent today arrives tomorrow (NASA).
+14. **EU proposes a €45bn loan for Ukraine in 2027** — two-thirds of a
+    €70bn gap, repaid only once Russia pays reparations (EU
+    Commission).
 
-## The briefs
+## Briefs (15–48)
 
-Twenty-seven one-liners, each traceable to Wednesday's reporting:
-Ukraine's confirmed strikes on the Ilsky and Afipsky refineries; the
-Kerch Bridge road span down after a second-night strike (as briefed
-by Wednesday's Ukraine monitors); the Saudi-led coalition destroying
-a Houthi cruise missile aimed at Riyadh; Iran's claim to have downed
-a US MQ-9 (attributed); the US statement that it sank five Iranian
-tankers (attributed); Iran's declared restricted sea zone off
-Chabahar; magnitude 6.0 (Papua New Guinea) and 5.3 (Romania)
-earthquakes; the Iranian agent jailed for 27 years in the US; Iraq
-reopening its pipeline to Turkey; the World Court's Myanmar ruling;
-five EU states planning migrant return hubs in Rwanda; Trump meeting
-Quad partners in Manila; Thailand's arsenic concerns; reported
-Russian bomber activity near Japan and Taiwan (attributed); oil
-slipping on a US stock build; Pakistan's petrol cut; the blind-
-cricket Asia Cup thriller; Cyclone Xavier at Category 5 in the
-Northern Cook Islands; Logitech's launch-day holiday for 7,000
-staff; GTA VI leave bookings up 32%; Take-Two's 6% rise; UK gas
-prices up 6.3% in a month (ONS); the four EU opt-outs; the four
-foreign ministers urging open Gaza aid crossings; the EU defence
-commissioner's 20-million-drone warning; and the Bank of England's
-near-5% inflation outlook.
+One line each, in the order printed: Manila trade-deal claim disputed
+by Manila; Quad leaders meet in Manila, first in over two years; Gaza
+floods, WHO urges open aid routes; UN counts 2,230 Sudan civilians
+killed this year; Ethiopia–Eritrea artillery fire near Badme;
+Myanmar's junta says ASEAN treated it unfairly, ties to be reviewed;
+US Democrats pick Jeffries for House speaker, 251 of 262 caucus votes;
+France's Diallo to challenge Infantino at FIFA; gold sinks to $3,792
+an ounce, a one-year low; Dow falls 849 points, a fourth straight
+fall; Anthropic prices its IPO, trades Thursday; PM Takaichi's first
+China visit; Canada–China tariff relief on pork and seafood; 19 die
+in a Kemerovo plane crash (media reports); a Serbian MiG-29 crashes
+near Belgrade; Kosovo's ex-president Thaçi gets 17 months; a Paris
+court suspends the school-protest ban; Guinea jails 224 over illegal
+gold mining; Mauritius sets the UK a December Chagos deadline; South
+Africa inflation up to 5.2%, highest since 2024; Cyclone Xavier
+reaches Category 5 (Cook Islands); New Zealand tsunami advisory
+lifted after 60 cm surges; Riyadh says the coalition downed a Houthi
+missile; Knesset approves nine deputy speakers, two of them Arab;
+Berlin coalition to cut power tax and cap fuel prices; Germany
+accuses Russia of chemical-weapons breaches; a Seoul court acquits
+the Daegu mayor in the martial-law case; Lahore is again the world's
+most polluted big city, AQI 339; a magnitude-5.9 quake off Peru's
+south coast, no damage; USA beat Haiti 2–0 to reach the Nations
+League semi-finals; Grimes scores 47 as the Lakers win a ninth
+straight; Bancroft says the whole team knew of the 2018 plot; the
+Kerch Bridge span is down after a second-night strike, Kyiv says;
+Brent falls 1.4% to $91.82 a barrel.
 
 ## Date discipline
 
-Left out on purpose, and named in the page's DATE CHECK box:
-
-- **DR Congo's Ebola count passing 11,000** — reported on Tuesday
-  17 November, not Wednesday. (An earlier draft of this entry carded
-  it as Wednesday news; that was wrong and it has been removed.)
-- **The US measles-elimination ruling** — announced before Wednesday.
-- **The Shenzhen trilateral summit** — still to come on Thursday
-  19 November; card 3 covers Wednesday's Xi–Putin meeting and frames
-  the trilateral as next.
-
-Also corrected from the earlier draft: the summit is no longer shown
-as having happened with Trump present; the weather card is Cyclone
-Akvan (the storm actually reported on Wednesday), not "Cyclone
-Xavier slams the Cook Islands" — Xavier appears only as a brief, at
-Category 5, with no hype verbs anywhere on the page.
+Left out on purpose, and named in the page's DATE CHECK box because
+they were reported on **Tuesday 17 November**, not today: DR Congo's
+Ebola count passing 11,000; Nvidia's $115.8bn quarter (v2 carded this
+— a mistake, removed); the US measles-elimination ruling. Also left
+out for the same reason: the Knesset speaker vote (66–52) and
+Serbia's student MPs, both 17 November stories that some rival pages
+still carry. The Shenzhen trilateral is a Thursday event and is
+framed as such; Cyclone Xavier is briefed only as "reaches Category
+5", with no landfall claim; Akvan's Friday landfall is labelled a
+forecast.

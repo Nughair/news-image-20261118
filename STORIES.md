@@ -1,96 +1,123 @@
-# Stories on the page — Wednesday 18 November 2026 (v3)
+# STORIES — v4 (50 stories, all Wednesday 18 November 2026 UTC)
 
-Sourcing notes for `entry.png` as drawn by `draw_v3.py`. Selection and
-ranking follow the day's wire consensus: the live board's top entries
-(el-net, tri-le, yoshifumi-nagata, calm-badger-15, awsm13) were pulled
-and read before this rebuild, and the card order below tracks the
-stories they independently agree the day was about. Every figure is
-carried from a named report; contested claims are attributed to the
-side that made them. 48 stories in total: 14 numbered cards, 34
-numbered briefs.
+Discipline for v4, from a fresh study of the live board's top images on
+19 Nov: only stories verified below appear as news. Items the leaders'
+DATE CHECK boxes name as Tuesday 17 November stories — Alaska's Senate
+call (Peltola), the Board of Peace Gaza warning, the Knesset speaker
+vote, the Kerch Bridge span collapse, Nvidia's $115.8bn results, the
+Prague train crash, Ebola passing 11,000 — are excluded from the news
+and named in the DATE CHECK box instead. The Dow's 849-point Tuesday
+figure is dropped; Wednesday's market story is the Fed minutes (Dow
+−561). Ebola appears in its Wednesday form: WHO keeps the global
+emergency as the count passes 11,300.
 
-## Cards
+## Cards (15)
 
-1. **Kuwait and Bahrain say they intercepted Iranian drones** — Iran
-   says it aimed at US forces at Ali Al Salem air base; Bahrain's third
-   interception this week, after US jets struck Qeshm on Tuesday night
-   (the strike itself is background, not the day's news). Wire copy via
-   Al Jazeera / CENTCOM reporting.
-2. **Xi greets Trump on the eve of the three-way summit** — APEC opens
-   in Shenzhen with Xi's keynote; Putin joined the banquet toast. The
-   Trump–Xi–Putin talks are scheduled for **Thursday** and are framed
-   on the page as next, not as news (CNBC · CNN).
-3. **Democrat Peltola wins Alaska; Senate now 56–44** — AP call:
-   144,302 votes to Sullivan's 131,844; a ninth Democratic gain, the
-   most in a midterm since 1958 (AP).
-4. **Russia fires 141 drones at Ukraine overnight** — air force: 126
-   downed; officials: 5 killed, 15 injured, power cut to 80+
-   settlements in Rivne region (Kyiv).
-5. **Board of Peace warns the Gaza truce may collapse** — its first
-   report to the Security Council, obtained by AP, says Israel blocked
-   the civil administration (AP).
-6. **Cyclone Akvan strengthens in the Bay of Bengal** — IMD: landfall
-   in Andhra Pradesh around noon Friday; Odisha readies up to 204,070
-   people to evacuate (IMD).
-7. **UK inflation rises to 3.6%, highest in a year** — October CPI up
-   from 3.5% as diesel hits a record high (ONS).
-8. **Amnesty: RSF drone strikes killed 37 in El Obeid** — Amnesty says
-   the strikes should be investigated as war crimes; the RSF denies
-   responsibility (Amnesty).
-9. **GTA VI goes on sale after a 13-year wait** — midnight launch
-   starts in New Zealand; 14.9m pre-orders (Sensor Tower).
-10. **Europe off track on antibiotic resistance** — resistant
-    K. pneumoniae blood infections up 72% since 2019 (ECDC).
-11. **COP31: 75 countries back a "35 by 35" power goal** — electricity
-    to 35% of energy use by 2035; Rockström warns of 2.8–3°C warming
-    (Anadolu).
-12. **Bangladesh protests shut at least 55 factories** — workers seek
-    Tk 30,000 a month, up from 12,500; police fired tear gas (AFP).
-13. **Voyager 1 is the first craft one light-day out** — 25.9 billion
-    km from Earth; a command sent today arrives tomorrow (NASA).
-14. **EU proposes a €45bn loan for Ukraine in 2027** — two-thirds of a
-    €70bn gap, repaid only once Russia pays reparations (EU
-    Commission).
+1. **Shenzhen (ASIA · APEC SUMMIT)** — Xi greets Trump on the tarmac in
+   Shenzhen. A rare airport honour as APEC opens; Putin joins the
+   banquet. The three-way talks with Xi are set for Thursday.
+   (CONFIRMED · AP)
+2. **Kuwait (MIDDLE EAST · IRAN WAR)** — Kuwait and Bahrain intercept
+   Iran's drones. Iran says it aimed at US forces at Ali Al Salem,
+   after Tuesday's US strike on Qeshm. CENTCOM reports no casualties.
+   (CLAIM · REUTERS)
+3. **Voyager (WORLD · SPACE)** — Voyager 1 reaches one light-day from
+   Earth. NASA's 1977 probe is the first craft 25.9 billion km out; a
+   radio command sent today arrives tomorrow. (CONFIRMED · NASA)
+4. **Kyiv (EUROPE · UKRAINE WAR)** — Russia fires 141 drones at
+   Ukraine; 126 downed. Kyiv counts 126 downed; officials report five
+   killed and 15 injured, power cut across Rivne region. (KYIV)
+5. **Washington (AMERICAS · MARKETS)** — Fed minutes: almost all
+   officials back more hikes. A bigger December rise is floated; the
+   Dow falls 561 points (−1.1%) while the Nasdaq edges up 0.4%. (FED)
+6. **Gaza (MIDDLE EAST · GAZA)** — Israeli tanks push into central
+   Gaza near Nuseirat. The first ground push since the truce; the army
+   says it is destroying a tunnel. Three killed, medics say. (REUTERS)
+7. **Odisha (ASIA · WEATHER)** — Cyclone Akvan veers north toward
+   Odisha. Nearly 50,000 people are moved to shelters as the storm
+   nears the coast; landfall is due on Friday. (IMD)
+8. **El Obeid (AFRICA · SUDAN WAR)** — Amnesty: RSF drones killed 37 in
+   El Obeid. The group urges a war-crimes inquiry; the RSF blames
+   Sudan's army for the deaths. (AMNESTY)
+9. **Brussels (EUROPE · UKRAINE AID)** — EU proposes a €45bn loan for
+   Ukraine. Two-thirds of a €70bn gap for 2027, repaid only once Russia
+   pays reparations.
+10. **London (EUROPE · ECONOMY)** — UK inflation climbs to 3.6%, a
+    one-year high. Fuel and a tobacco duty rise push October CPI up
+    from 3.5%. (ONS)
+11. **Washington (AMERICAS · US POLITICS)** — Jeffries wins the
+    Speaker nod. A 251–11 caucus vote; on course to be the first Black
+    Speaker when the House votes on 3 January. (NPR)
+12. **Wellington (WORLD · CULTURE)** — GTA VI goes on sale after a
+    13-year wait. New Zealand plays first at midnight; 14.9m digital
+    pre-orders banked. (SENSOR TOWER)
+13. **Dhaka (ASIA · LABOUR)** — Bangladesh protests shut 55 factories.
+    Police tear-gas garment workers blocking a highway over pay; about
+    300 arrests.
+14. **San Francisco (AMERICAS · BUSINESS)** — Anthropic prices a
+    record $81.3bn IPO. Shares at $83, above the range — the biggest
+    listing ever. Trading starts Thursday. (CNBC)
+15. **Antalya (WORLD · CLIMATE)** — COP31 splits over fossil-fuel
+    draft. Arab states and Russia reject the text; a '35 by 35' power
+    goal wins 75 backers. Friday deadline.
 
-## Briefs (15–48)
+## Briefs (35)
 
-One line each, in the order printed: Manila trade-deal claim disputed
-by Manila; Quad leaders meet in Manila, first in over two years; Gaza
-floods, WHO urges open aid routes; UN counts 2,230 Sudan civilians
-killed this year; Ethiopia–Eritrea artillery fire near Badme;
-Myanmar's junta says ASEAN treated it unfairly, ties to be reviewed;
-US Democrats pick Jeffries for House speaker, 251 of 262 caucus votes;
-France's Diallo to challenge Infantino at FIFA; gold sinks to $3,792
-an ounce, a one-year low; Dow falls 849 points, a fourth straight
-fall; Anthropic prices its IPO, trades Thursday; PM Takaichi's first
-China visit; Canada–China tariff relief on pork and seafood; 19 die
-in a Kemerovo plane crash (media reports); a Serbian MiG-29 crashes
-near Belgrade; Kosovo's ex-president Thaçi gets 17 months; a Paris
-court suspends the school-protest ban; Guinea jails 224 over illegal
-gold mining; Mauritius sets the UK a December Chagos deadline; South
-Africa inflation up to 5.2%, highest since 2024; Cyclone Xavier
-reaches Category 5 (Cook Islands); New Zealand tsunami advisory
-lifted after 60 cm surges; Riyadh says the coalition downed a Houthi
-missile; Knesset approves nine deputy speakers, two of them Arab;
-Berlin coalition to cut power tax and cap fuel prices; Germany
-accuses Russia of chemical-weapons breaches; a Seoul court acquits
-the Daegu mayor in the martial-law case; Lahore is again the world's
-most polluted big city, AQI 339; a magnitude-5.9 quake off Peru's
-south coast, no damage; USA beat Haiti 2–0 to reach the Nations
-League semi-finals; Grimes scores 47 as the Lakers win a ninth
-straight; Bancroft says the whole team knew of the 2018 plot; the
-Kerch Bridge span is down after a second-night strike, Kyiv says;
-Brent falls 1.4% to $91.82 a barrel.
+16. **Manila** — Trump hails a 'biggest' trade deal; Manila disputes it (AMERICAS)
+17. **Tokyo** — Takaichi makes her first China visit as prime minister (ASIA)
+18. **Ottawa** — Carney and Xi agree tariff relief on pork and seafood (AMERICAS)
+19. **Seoul** — Lee seeks Xi's help on peace with the North (ASIA)
+20. **Riyadh** — the coalition downs a Houthi cruise missile (MIDDLE EAST)
+21. **Berlin** — Germany pledges air defences and F-16 ammo to Kyiv (EUROPE)
+22. **The Hague** — a court gives ex-president Thaçi 17 months (EUROPE)
+23. **Kemerovo** — 19 die in an An-12 plane crash, media say (EUROPE)
+24. **Kinshasa** — WHO keeps Ebola a global emergency at 11,300 cases (AFRICA)
+25. **Badme** — Ethiopia and Eritrea trade artillery fire (AFRICA)
+26. **Khartoum** — the UN counts 2,230 Sudan civilians killed this year (AFRICA)
+27. **Maputo** — opposition leader Mondlane goes on trial (AFRICA)
+28. **Conakry** — Guinea jails 224 over illegal gold mining (AFRICA)
+29. **Pretoria** — inflation rises to 5.2%, the highest since 2024 (AFRICA)
+30. **Gaza** — floods deepen; WHO urges open aid routes (MIDDLE EAST)
+31. **Canberra** — Australia sanctions settler leader Daniella Weiss (OCEANIA)
+32. **Sydney** — Tame Impala sweeps seven ARIA Music Awards (OCEANIA)
+33. **Port Moresby** — a magnitude 6.0 quake strikes PNG (OCEANIA)
+34. **Avarua** — Cyclone Xavier reaches Category 5, turns east (OCEANIA)
+35. **Wellington** — tsunami advisory lifted after 60 cm surges (OCEANIA)
+36. **Caracas** — Hegseth's surprise visit seals a defence pact (AMERICAS)
+37. **Bogotá** — the economy shrinks 0.8% in the third quarter (AMERICAS)
+38. **Brasília** — the Senate passes Lula's $10bn fiscal package (AMERICAS)
+39. **Lima** — the Tumbes River passes its red-alert level (AMERICAS)
+40. **Turin** — Alcaraz beats Medvedev 6–2, 6–4 at the Finals (EUROPE)
+41. **Los Angeles** — Grimes scores 47 as the Lakers win a ninth straight (AMERICAS)
+42. **New York** — USA beat Haiti 2–0, reach the Nations League semis (AMERICAS)
+43. **Naypyidaw** — the junta says ASEAN treated it unfairly (ASIA)
+44. **Paris** — a court suspends the school-protest ban (EUROPE)
+45. **Belgrade** — a Serbian MiG-29 crashes near the capital (EUROPE)
+46. **Lahore** — again the world's most polluted big city, AQI 339 (ASIA)
+47. **Port Louis** — Mauritius sets the UK a December Chagos deadline (AFRICA)
+48. **New Delhi** — gold sinks to $3,792 an ounce, a one-year low (ASIA)
+49. **Stockholm** — Europe off track on antibiotic resistance — ECDC (EUROPE)
+50. **Bucharest** — a magnitude 5.3 earthquake shakes Romania (EUROPE)
 
-## Date discipline
+## Numbers strip
 
-Left out on purpose, and named in the page's DATE CHECK box because
-they were reported on **Tuesday 17 November**, not today: DR Congo's
-Ebola count passing 11,000; Nvidia's $115.8bn quarter (v2 carded this
-— a mistake, removed); the US measles-elimination ruling. Also left
-out for the same reason: the Knesset speaker vote (66–52) and
-Serbia's student MPs, both 17 November stories that some rival pages
-still carry. The Shenzhen trilateral is a Thursday event and is
-framed as such; Cyclone Xavier is briefed only as "reaches Category
-5", with no landfall claim; Akvan's Friday landfall is labelled a
-forecast.
+141 Russian drones fired at Ukraine overnight · 126 of them downed,
+Kyiv's air force says · 25.9bn km Voyager 1 from Earth — one light-day
+out · 55 factories shut by Bangladesh wage protests · 251–11 the
+caucus vote that nominates Jeffries · $81.3bn Anthropic's record IPO
+pricing.
+
+## Region tally (computed in code)
+
+EUROPE 10 · AMERICAS 10 · ASIA 9 · AFRICA 8 · MIDDLE EAST 4 ·
+OCEANIA 5 · WORLD 4 = 50.
+
+## Date check (printed on the page)
+
+Left out on purpose — each first reported on Tuesday 17 November: the
+US strike on Qeshm (background to story 2) · Alaska's Senate call ·
+the Kerch Bridge span collapse · the Knesset speaker vote · Nvidia's
+$115.8bn results · the Prague train crash · the Board of Peace's Gaza
+warning · Ebola passing 11,000 cases. Not yet: the Trump–Xi–Putin
+talks (Thu 19) · Anthropic's first trade (Thu 19) · Akvan's landfall
+(Fri 20) · COP31's close (Fri 20).
